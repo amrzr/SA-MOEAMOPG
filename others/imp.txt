@@ -1,0 +1,13 @@
+export PATH="/projappl/project_2007911/MORL_tests/conda_env/bin:$PATH"
+
+o install some additional pip packages, add the -r <req_file> argument, e.g.:
+
+conda-containerize new -r req.txt --prefix <install_dir> env.yml
+
+pip-containerize new --prefix <install_dir> req.txt
+
+conda env export -n <target_env_name> > env.yml
+conda-containerize new --prefix <install_dir> env.yml
+
+
+os.environ["OMP_NUM_THREADS"] = "1"
