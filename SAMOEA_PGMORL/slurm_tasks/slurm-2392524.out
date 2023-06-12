@@ -1,0 +1,1928 @@
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+*******************
+tensor([1., 0.])
+[ 44.89711159 167.61221489]
+*******************
+tensor([1., 0.])
+[ 44.89711159 167.61221489]
+*******************
+tensor([0.6000, 0.4000])
+[ 54.62641279 157.92485744]
+*******************
+tensor([1., 0.])
+[ 44.89711159 167.61221489]
+*******************
+tensor([0.2000, 0.8000])
+[ 70.378237   213.20905473]
+*******************
+tensor([0.6000, 0.4000])
+[ 54.62641279 157.92485744]
+*******************
+tensor([0.6000, 0.4000])
+[142.84605246 841.85473755]
+*******************
+tensor([1., 0.])
+[ 44.89711159 167.61221489]
+*******************
+tensor([1., 0.])
+[ 44.89711159 167.61221489]
+*******************
+tensor([0.2000, 0.8000])
+[ 70.378237   213.20905473]
+*******************
+tensor([1., 0.])
+[107.32051192 551.84437496]
+*******************
+tensor([0.6000, 0.4000])
+[142.84605246 841.85473755]
+*******************
+tensor([0.2000, 0.8000])
+[ 70.378237   213.20905473]
+*******************
+tensor([0.6000, 0.4000])
+[ 54.62641279 157.92485744]
+*******************
+tensor([0.2000, 0.8000])
+[ 70.378237   213.20905473]
+*******************
+tensor([1., 0.])
+[107.32051192 551.84437496]
+*******************
+tensor([0.6000, 0.4000])
+[ 54.62641279 157.92485744]
+*******************
+tensor([0.6000, 0.4000])
+[142.84605246 841.85473755]
+*******************
+*******************
+tensor([0.6000, 0.4000])
+[142.84605246 841.85473755]
+tensor([0.6000, 0.4000])
+[142.84605246 841.85473755]
+*******************
+tensor([1., 0.])
+[107.32051192 551.84437496]
+*******************
+tensor([0.6000, 0.4000])
+[ 54.62641279 157.92485744]
+*******************
+tensor([1., 0.])
+[107.32051192 551.84437496]
+*******************
+tensor([0.2000, 0.8000])
+[ 70.378237   213.20905473]
+*******************
+tensor([0.6000, 0.4000])
+[ 341.67749377 1732.59372793]
+*******************
+tensor([0.4000, 0.6000])
+[ 544.06576167 1878.50708381]
+*******************
+tensor([1., 0.])
+[ 498.94449822 1579.62105208]
+*******************
+tensor([0., 1.])
+[ 527.48870013 2452.26612965]
+*******************
+*******************
+tensor([0.8000, 0.2000])
+[ 502.4960386  2130.22537222]
+tensor([0.2000, 0.8000])
+[ 656.69422497 2204.98646276]
+*******************
+tensor([0.4000, 0.6000])
+[ 324.29047073 1865.0062517 ]
+*******************
+tensor([1., 0.])
+[107.32051192 551.84437496]
+*******************
+tensor([0.4000, 0.6000])
+[ 324.29047073 1865.0062517 ]
+*******************
+tensor([0., 1.])
+[ 494.04486362 1079.19015998]
+*******************
+tensor([1., 0.])
+[ 498.94449822 1579.62105208]
+*******************
+tensor([0.8000, 0.2000])
+[ 502.4960386  2130.22537222]
+*******************
+*******************
+tensor([0., 1.])
+[ 527.48870013 2452.26612965]
+*******************
+tensor([0.2000, 0.8000])
+[ 500.79809104 2415.43137416]
+*******************
+tensor([0.8000, 0.2000])
+[ 504.99145247 2328.74879409]
+*******************
+tensor([0.2000, 0.8000])
+[ 500.79809104 2415.43137416]
+tensor([0.6000, 0.4000])
+[ 341.67749377 1732.59372793]
+*******************
+tensor([0., 1.])
+[ 494.04486362 1079.19015998]
+*******************
+*******************
+tensor([0.8000, 0.2000])
+[ 504.99145247 2328.74879409]
+*******************
+tensor([0.2000, 0.8000])
+[ 656.69422497 2204.98646276]
+*******************
+tensor([0.4000, 0.6000])
+[ 544.06576167 1878.50708381]
+tensor([0., 1.])
+[ 527.48870013 2452.26612965]
+*******************
+tensor([0.6000, 0.4000])
+[ 341.67749377 1732.59372793]
+*******************
+*******************
+tensor([1., 0.])
+[ 498.94449822 1579.62105208]
+*******************
+tensor([0.4000, 0.6000])
+[ 544.06576167 1878.50708381]
+*******************
+tensor([0.4000, 0.6000])
+[ 324.29047073 1865.0062517 ]
+tensor([0.8000, 0.2000])
+[ 502.4960386  2130.22537222]
+*******************
+tensor([0.2000, 0.8000])
+[ 499.96161736 2084.53512269]
+*******************
+tensor([1., 0.])
+[ 521.21329862 1615.79885891]
+*******************
+tensor([0.2000, 0.8000])
+[ 656.69422497 2204.98646276]
+*******************
+tensor([0.2000, 0.8000])
+[ 499.96161736 2084.53512269]
+*******************
+tensor([0.4000, 0.6000])
+[ 324.29047073 1865.0062517 ]
+*******************
+tensor([0.2000, 0.8000])
+[ 499.96161736 2084.53512269]
+*******************
+tensor([0.6000, 0.4000])
+[  90.31582604 1662.16143414]
+*******************
+tensor([0., 1.])
+[  97.2213063 1932.2586894]
+*******************
+tensor([0.6000, 0.4000])
+[  90.31582604 1662.16143414]
+*******************
+tensor([0.4000, 0.6000])
+[ 531.25613888 2269.44122707]
+*******************
+tensor([0.4000, 0.6000])
+[ 324.29047073 1865.0062517 ]
+*******************
+tensor([0.4000, 0.6000])
+[ 492.19322941 1372.29631384]
+*******************
+tensor([0., 1.])
+[  97.2213063 1932.2586894]
+*******************
+tensor([0.2000, 0.8000])
+[ 500.79809104 2415.43137416]
+*******************
+*******************
+tensor([0.8000, 0.2000])
+[ 476.28312272 1719.92874307]
+*******************
+tensor([0.6000, 0.4000])
+[ 512.43331814 2105.4186421 ]
+*******************
+tensor([0., 1.])
+[ 494.04486362 1079.19015998]
+*******************
+tensor([0.4000, 0.6000])
+[ 492.19322941 1372.29631384]
+*******************
+tensor([0.8000, 0.2000])
+[ 476.28312272 1719.92874307]
+tensor([1., 0.])
+[ 543.03884203 1868.4725297 ]
+*******************
+tensor([0.6000, 0.4000])
+[ 512.43331814 2105.4186421 ]
+*******************
+tensor([0.4000, 0.6000])
+[ 492.19322941 1372.29631384]
+*******************
+tensor([0.8000, 0.2000])
+[ 476.28312272 1719.92874307]
+*******************
+tensor([0.8000, 0.2000])
+[ 504.99145247 2328.74879409]
+*******************
+tensor([0.8000, 0.2000])
+[ 495.13281004 2187.98450121]
+*******************
+tensor([0., 1.])
+[ 494.04486362 1079.19015998]
+*******************
+tensor([0.8000, 0.2000])
+[ 504.99145247 2328.74879409]
+*******************
+tensor([1., 0.])
+[ 521.21329862 1615.79885891]
+*******************
+tensor([0., 1.])
+[  97.2213063 1932.2586894]
+*******************
+tensor([0.4000, 0.6000])
+[ 499.82125595 2120.14571931]
+*******************
+tensor([0.4000, 0.6000])
+[ 499.82125595 2120.14571931]
+*******************
+tensor([0.2000, 0.8000])
+[ 438.07126644 1814.3856305 ]
+*******************
+tensor([0., 1.])
+[ 623.36542971 1663.51094233]
+*******************
+*******************
+tensor([1., 0.])
+[ 543.03884203 1868.4725297 ]
+*******************
+tensor([0.8000, 0.2000])
+[ 504.99145247 2328.74879409]
+*******************
+tensor([0., 1.])
+[ 500.01533288 1552.12300542]
+*******************
+tensor([0.2000, 0.8000])
+[ 500.79809104 2415.43137416]
+*******************
+tensor([0.6000, 0.4000])
+[ 512.43331814 2105.4186421 ]
+tensor([0.8000, 0.2000])
+[ 742.04396119 1982.83068037]
+*******************
+tensor([0.2000, 0.8000])
+[ 500.79809104 2415.43137416]
+*******************
+tensor([1., 0.])
+[ 521.21329862 1615.79885891]
+*******************
+*******************
+tensor([0., 1.])
+[ 623.36542971 1663.51094233]
+*******************
+tensor([0.4000, 0.6000])
+[ 544.06576167 1878.50708381]
+*******************
+tensor([1., 0.])
+[ 498.94449822 1579.62105208]
+tensor([0.6000, 0.4000])
+[ 341.67749377 1732.59372793]
+*******************
+tensor([0.6000, 0.4000])
+*******************
+tensor([0.8000, 0.2000])
+[ 502.4960386  2130.22537222]
+[ 341.67749377 1732.59372793]
+*******************
+tensor([0.8000, 0.2000])
+[ 742.04396119 1982.83068037]
+*******************
+tensor([0.4000, 0.6000])
+[ 544.06576167 1878.50708381]
+*******************
+tensor([0.6000, 0.4000])
+[  90.31582604 1662.16143414]
+*******************
+tensor([0.2000, 0.8000])
+[ 656.69422497 2204.98646276]
+*******************
+tensor([0., 1.])
+[ 527.48870013 2452.26612965]
+*******************
+tensor([0.2000, 0.8000])
+[ 499.96161736 2084.53512269]
+*******************
+tensor([0.2000, 0.8000])
+[ 438.07126644 1814.3856305 ]
+*******************
+tensor([1., 0.])
+[ 498.94449822 1579.62105208]
+*******************
+*******************
+tensor([0.2000, 0.8000])
+[ 656.69422497 2204.98646276]
+*******************
+tensor([0.4000, 0.6000])
+[ 492.19322941 1372.29631384]
+*******************
+tensor([0., 1.])
+tensor([1., 0.])
+[ 521.21329862 1615.79885891]
+[ 494.04486362 1079.19015998]
+*******************
+tensor([0., 1.])
+[  97.2213063 1932.2586894]
+*******************
+tensor([0.4000, 0.6000])
+[ 531.25613888 2269.44122707]
+*******************
+*******************
+tensor([0.8000, 0.2000])
+[ 495.13281004 2187.98450121]
+*******************
+tensor([0.2000, 0.8000])
+[ 438.07126644 1814.3856305 ]
+*******************
+tensor([0.6000, 0.4000])
+[  90.31582604 1662.16143414]
+*******************
+tensor([1., 0.])
+[ 543.03884203 1868.4725297 ]
+tensor([0., 1.])
+[ 623.36542971 1663.51094233]
+*******************
+tensor([0.8000, 0.2000])
+[ 476.28312272 1719.92874307]
+*******************
+tensor([0.8000, 0.2000])
+[ 742.04396119 1982.83068037]
+*******************
+tensor([0.6000, 0.4000])
+[ 512.43331814 2105.4186421 ]
+*******************
+tensor([0.8000, 0.2000])
+[ 502.4960386  2130.22537222]
+*******************
+*******************
+tensor([0.4000, 0.6000])
+[ 499.82125595 2120.14571931]
+*******************
+tensor([0.4000, 0.6000])
+[ 531.25613888 2269.44122707]
+tensor([0.8000, 0.2000])
+[ 495.13281004 2187.98450121]
+*******************
+tensor([0.8000, 0.2000])
+[ 742.04396119 1982.83068037]
+*******************
+tensor([0., 1.])
+[ 527.48870013 2452.26612965]
+*******************
+tensor([0.4000, 0.6000])
+[ 499.82125595 2120.14571931]
+*******************
+tensor([0.2000, 0.8000])
+[ 438.07126644 1814.3856305 ]
+*******************
+tensor([0., 1.])
+[ 500.01533288 1552.12300542]
+*******************
+*******************
+tensor([1., 0.])
+[ 543.03884203 1868.4725297 ]
+tensor([0., 1.])
+[ 500.01533288 1552.12300542]
+*******************
+tensor([0.4000, 0.6000])
+[ 492.19322941 1372.29631384]
+*******************
+tensor([0.4000, 0.6000])
+[ 531.25613888 2269.44122707]
+*******************
+*******************
+tensor([0., 1.])
+[ 623.36542971 1663.51094233]
+*******************
+tensor([0.8000, 0.2000])
+[ 495.13281004 2187.98450121]
+*******************
+tensor([0.2000, 0.8000])
+[ 499.96161736 2084.53512269]
+tensor([0., 1.])
+[  97.2213063 1932.2586894]
+*******************
+tensor([0.8000, 0.2000])
+[ 476.28312272 1719.92874307]
+*******************
+tensor([1., 0.])
+[ 521.21329862 1615.79885891]
+*******************
+tensor([0.6000, 0.4000])
+[ 512.43331814 2105.4186421 ]
+*******************
+tensor([0., 1.])
+[ 500.01533288 1552.12300542]
+*******************
+tensor([0.4000, 0.6000])
+[ 531.25613888 2269.44122707]
+*******************
+tensor([0., 1.])
+[ 500.01533288 1552.12300542]
+*******************
+tensor([0.6000, 0.4000])
+[  90.31582604 1662.16143414]
+*******************
+tensor([0.8000, 0.2000])
+[ 495.13281004 2187.98450121]
+*******************
+tensor([0.4000, 0.6000])
+[ 499.82125595 2120.14571931]
+*******************
+tensor([0., 1.])
+[ 623.36542971 1663.51094233]
+*******************
+tensor([1., 0.])
+[ 543.03884203 1868.4725297 ]
+*******************
+tensor([0.8000, 0.2000])
+[ 742.04396119 1982.83068037]
+*******************
+tensor([0.2000, 0.8000])
+[ 438.07126644 1814.3856305 ]
+*******************
+tensor([1., 0.])
+[ 54.14298372 175.63157792]
+*******************
+tensor([1., 0.])
+[ 54.14298372 175.63157792]
+*******************
+tensor([1., 0.])
+[ 54.14298372 175.63157792]
+*******************
+tensor([1., 0.])
+[ 54.14298372 175.63157792]
+*******************
+tensor([1., 0.])
+[ 54.14298372 175.63157792]
+*******************
+tensor([0.2000, 0.8000])
+[ 391.06896798 1316.87928045]
+*******************
+tensor([1., 0.])
+[ 260.23514353 1139.5473631 ]
+*******************
+tensor([0.2000, 0.8000])
+[ 391.06896798 1316.87928045]
+*******************
+tensor([1., 0.])
+[ 260.23514353 1139.5473631 ]
+*******************
+tensor([0.6000, 0.4000])
+[ 509.77461162 1373.08284341]
+*******************
+tensor([0.2000, 0.8000])
+[ 391.06896798 1316.87928045]
+*******************
+tensor([0.6000, 0.4000])
+[ 228.71089037 1760.19451235]
+*******************
+tensor([0.6000, 0.4000])
+[ 509.77461162 1373.08284341]
+*******************
+tensor([1., 0.])
+[ 260.23514353 1139.5473631 ]
+*******************
+tensor([0.2000, 0.8000])
+[ 391.06896798 1316.87928045]
+*******************
+tensor([0.6000, 0.4000])
+[ 228.71089037 1760.19451235]
+*******************
+tensor([1., 0.])
+[ 260.23514353 1139.5473631 ]
+*******************
+*******************
+tensor([0.6000, 0.4000])
+[ 509.77461162 1373.08284341]
+*******************
+tensor([0.6000, 0.4000])
+[ 228.71089037 1760.19451235]
+tensor([0.2000, 0.8000])
+[ 391.06896798 1316.87928045]
+*******************
+tensor([0.6000, 0.4000])
+[ 379.79098077 1717.65864989]
+*******************
+tensor([1., 0.])
+[ 499.32609855 1583.61463677]
+*******************
+tensor([0.6000, 0.4000])
+[ 228.71089037 1760.19451235]
+*******************
+tensor([0.8000, 0.2000])
+[ 505.32154178 2134.55254066]
+*******************
+*******************
+tensor([0.4000, 0.6000])
+[ 468.38792024 1931.2851244 ]
+*******************
+tensor([1., 0.])
+[ 260.23514353 1139.5473631 ]
+tensor([0.2000, 0.8000])
+[ 646.92829768 2207.10530253]
+*******************
+tensor([0.6000, 0.4000])
+[ 228.71089037 1760.19451235]
+*******************
+tensor([0., 1.])
+[ 638.11278322 2385.98489758]
+*******************
+tensor([0.6000, 0.4000])
+[ 509.77461162 1373.08284341]
+*******************
+tensor([0.4000, 0.6000])
+[ 213.11093478 1774.5612457 ]
+*******************
+tensor([0.4000, 0.6000])
+[ 213.11093478 1774.5612457 ]
+*******************
+tensor([0., 1.])
+[ 428.37394682 1013.91801869]
+*******************
+tensor([0.8000, 0.2000])
+[ 503.63436548 1747.4095092 ]
+*******************
+tensor([1., 0.])
+[ 863.28388179 1894.46758481]
+*******************
+tensor([1., 0.])
+[ 499.32609855 1583.61463677]
+*******************
+tensor([0.6000, 0.4000])
+[ 379.79098077 1717.65864989]
+*******************
+tensor([0.2000, 0.8000])
+[ 499.03146568 1797.75490062]
+*******************
+tensor([0.8000, 0.2000])
+[ 505.32154178 2134.55254066]
+*******************
+tensor([0.2000, 0.8000])
+[ 646.92829768 2207.10530253]
+*******************
+tensor([0.8000, 0.2000])
+[ 504.28247397 2257.49453394]
+*******************
+tensor([0.6000, 0.4000])
+[ 379.79098077 1717.65864989]
+*******************
+*******************
+tensor([0.2000, 0.8000])
+[ 497.42087213 2404.52737552]
+*******************
+tensor([0.6000, 0.4000])
+[ 179.46368567 1812.71489208]
+*******************
+tensor([0.8000, 0.2000])
+[ 504.28247397 2257.49453394]
+*******************
+tensor([0., 1.])
+[ 405.40311917 1933.74557904]
+*******************
+tensor([0., 1.])
+[ 638.11278322 2385.98489758]
+*******************
+tensor([0.2000, 0.8000])
+[ 497.42087213 2404.52737552]
+tensor([0.4000, 0.6000])
+[ 493.01742261 1229.69281721]
+*******************
+tensor([0.6000, 0.4000])
+[ 497.47865801 1864.11228408]
+*******************
+tensor([0.6000, 0.4000])
+[ 509.77461162 1373.08284341]
+*******************
+tensor([0., 1.])
+[ 428.37394682 1013.91801869]
+*******************
+tensor([1., 0.])
+[ 499.32609855 1583.61463677]
+*******************
+tensor([0., 1.])
+[ 638.11278322 2385.98489758]
+*******************
+*******************
+tensor([0.4000, 0.6000])
+[ 468.38792024 1931.2851244 ]
+*******************
+tensor([0.4000, 0.6000])
+[ 493.01742261 1229.69281721]
+tensor([0., 1.])
+[ 405.40311917 1933.74557904]
+*******************
+tensor([0.4000, 0.6000])
+[ 468.38792024 1931.2851244 ]
+*******************
+tensor([0.6000, 0.4000])
+*******************
+tensor([0.2000, 0.8000])
+[ 499.03146568 1797.75490062]
+*******************
+tensor([0.2000, 0.8000])
+[ 646.92829768 2207.10530253]
+*******************
+tensor([0.8000, 0.2000])
+[ 505.32154178 2134.55254066]
+*******************
+tensor([0.8000, 0.2000])
+[ 503.63436548 1747.4095092 ]
+*******************
+tensor([0.4000, 0.6000])
+[ 530.39199117 2255.88565866]
+*******************
+tensor([1., 0.])
+[ 379.04617984 1891.44668948]
+[ 179.46368567 1812.71489208]
+*******************
+tensor([1., 0.])
+[ 863.28388179 1894.46758481]
+*******************
+tensor([1., 0.])
+[ 379.04617984 1891.44668948]
+*******************
+tensor([0.6000, 0.4000])
+[ 497.47865801 1864.11228408]
+*******************
+tensor([0.2000, 0.8000])
+[ 499.03146568 1797.75490062]
+*******************
+*******************
+tensor([0.4000, 0.6000])
+[ 499.77834704 2068.41794218]
+*******************
+tensor([0.4000, 0.6000])
+[ 213.11093478 1774.5612457 ]
+*******************
+tensor([0.4000, 0.6000])
+[ 213.11093478 1774.5612457 ]
+tensor([0.2000, 0.8000])
+[ 440.71356364 1860.54329997]
+*******************
+tensor([0.8000, 0.2000])
+[ 494.82797713 2206.25357267]
+*******************
+tensor([0.4000, 0.6000])
+[ 213.11093478 1774.5612457 ]
+*******************
+tensor([0., 1.])
+[ 597.74303937 1670.65157687]
+*******************
+tensor([0.4000, 0.6000])
+[ 499.77834704 2068.41794218]
+*******************
+tensor([0.8000, 0.2000])
+[ 504.28247397 2257.49453394]
+*******************
+tensor([0.4000, 0.6000])
+[ 493.01742261 1229.69281721]
+*******************
+*******************
+tensor([0.8000, 0.2000])
+[ 503.63436548 1747.4095092 ]
+*******************
+tensor([0.8000, 0.2000])
+[ 770.19138029 1986.56892076]
+*******************
+tensor([0., 1.])
+tensor([0.2000, 0.8000])
+[ 497.42087213 2404.52737552]
+*******************
+tensor([0., 1.])
+[ 428.37394682 1013.91801869]
+*******************
+tensor([1., 0.])
+[ 863.28388179 1894.46758481]
+*******************
+tensor([0.8000, 0.2000])
+[ 770.19138029 1986.56892076]
+[ 405.40311917 1933.74557904]
+*******************
+tensor([0., 1.])
+[ 428.37394682 1013.91801869]
+*******************
+tensor([0.8000, 0.2000])
+[ 504.28247397 2257.49453394]
+*******************
+tensor([0.6000, 0.4000])
+[ 497.47865801 1864.11228408]
+*******************
+tensor([0.8000, 0.2000])
+[ 504.28247397 2257.49453394]
+*******************
+tensor([0., 1.])
+[ 597.74303937 1670.65157687]
+*******************
+tensor([0.2000, 0.8000])
+[ 497.42087213 2404.52737552]
+*******************
+tensor([0., 1.])
+[ 499.47451849 1673.63233284]
+*******************
+tensor([0.2000, 0.8000])
+[ 497.42087213 2404.52737552]
+*******************
+tensor([0.2000, 0.8000])
+[ 440.71356364 1860.54329997]
+*******************
+tensor([0.6000, 0.4000])
+[ 379.79098077 1717.65864989]
+*******************
+tensor([0.8000, 0.2000])
+[ 505.32154178 2134.55254066]
+*******************
+*******************
+tensor([0.4000, 0.6000])
+[ 468.38792024 1931.2851244 ]
+*******************
+tensor([0.6000, 0.4000])
+[ 179.46368567 1812.71489208]
+*******************
+tensor([0.2000, 0.8000])
+[ 499.03146568 1797.75490062]
+*******************
+tensor([1., 0.])
+[ 499.32609855 1583.61463677]
+*******************
+tensor([0.8000, 0.2000])
+[ 494.82797713 2206.25357267]
+*******************
+*******************
+tensor([0.6000, 0.4000])
+[ 379.79098077 1717.65864989]
+tensor([0.4000, 0.6000])
+[ 530.39199117 2255.88565866]
+*******************
+tensor([1., 0.])
+[ 499.32609855 1583.61463677]
+tensor([0.6000, 0.4000])
+[ 179.46368567 1812.71489208]
+*******************
+tensor([0., 1.])
+[ 597.74303937 1670.65157687]
+*******************
+tensor([1., 0.])
+[ 863.28388179 1894.46758481]
+*******************
+tensor([0.4000, 0.6000])
+[ 493.01742261 1229.69281721]
+*******************
+tensor([0.4000, 0.6000])
+[ 468.38792024 1931.2851244 ]
+*******************
+tensor([0.2000, 0.8000])
+[ 646.92829768 2207.10530253]
+*******************
+tensor([0., 1.])
+[ 405.40311917 1933.74557904]
+*******************
+tensor([0.2000, 0.8000])
+[ 646.92829768 2207.10530253]
+*******************
+tensor([1., 0.])
+[ 379.04617984 1891.44668948]
+*******************
+tensor([0., 1.])
+[ 638.11278322 2385.98489758]
+*******************
+*******************
+tensor([0.8000, 0.2000])
+[ 503.63436548 1747.4095092 ]
+tensor([0.8000, 0.2000])
+[ 770.19138029 1986.56892076]
+*******************
+tensor([0.2000, 0.8000])
+[ 440.71356364 1860.54329997]
+*******************
+*******************
+*******************
+tensor([0.2000, 0.8000])
+[ 440.71356364 1860.54329997]
+*******************
+tensor([1., 0.])
+[ 379.04617984 1891.44668948]
+*******************
+tensor([0.8000, 0.2000])
+[ 770.19138029 1986.56892076]
+tensor([0., 1.])
+[ 499.47451849 1673.63233284]
+tensor([0.6000, 0.4000])
+[ 497.47865801 1864.11228408]
+*******************
+tensor([0.4000, 0.6000])
+[ 499.77834704 2068.41794218]
+*******************
+tensor([0.8000, 0.2000])
+[ 494.82797713 2206.25357267]
+*******************
+tensor([0., 1.])
+[ 428.37394682 1013.91801869]
+*******************
+tensor([0.4000, 0.6000])
+[ 530.39199117 2255.88565866]
+*******************
+tensor([0.4000, 0.6000])
+[ 499.77834704 2068.41794218]
+*******************
+tensor([0.8000, 0.2000])
+[ 505.32154178 2134.55254066]
+*******************
+tensor([0.4000, 0.6000])
+[ 530.39199117 2255.88565866]
+*******************
+tensor([0.8000, 0.2000])
+[ 494.82797713 2206.25357267]
+*******************
+tensor([0., 1.])
+*******************
+tensor([0., 1.])
+[ 405.40311917 1933.74557904]
+*******************
+tensor([0.4000, 0.6000])
+[ 493.01742261 1229.69281721]
+*******************
+tensor([0., 1.])
+[ 638.11278322 2385.98489758]
+[ 597.74303937 1670.65157687]
+*******************
+tensor([0.2000, 0.8000])
+[ 499.03146568 1797.75490062]
+*******************
+tensor([0., 1.])
+[ 499.47451849 1673.63233284]
+*******************
+tensor([1., 0.])
+[ 863.28388179 1894.46758481]
+*******************
+tensor([0., 1.])
+[ 499.47451849 1673.63233284]
+*******************
+tensor([0.4000, 0.6000])
+[ 530.39199117 2255.88565866]
+*******************
+tensor([0.8000, 0.2000])
+[ 503.63436548 1747.4095092 ]
+*******************
+tensor([0.6000, 0.4000])
+[ 179.46368567 1812.71489208]
+*******************
+tensor([0., 1.])
+[ 499.47451849 1673.63233284]
+*******************
+tensor([0.6000, 0.4000])
+[ 497.47865801 1864.11228408]
+*******************
+tensor([0.4000, 0.6000])
+[ 499.77834704 2068.41794218]
+*******************
+tensor([0., 1.])
+[ 597.74303937 1670.65157687]
+*******************
+tensor([0.8000, 0.2000])
+[ 494.82797713 2206.25357267]
+*******************
+tensor([1., 0.])
+[ 379.04617984 1891.44668948]
+*******************
+tensor([0.8000, 0.2000])
+[ 770.19138029 1986.56892076]
+*******************
+tensor([0.2000, 0.8000])
+[ 440.71356364 1860.54329997]
+*******************
+tensor([1., 0.])
+[ 96.66251378 268.14322866]
+*******************
+tensor([1., 0.])
+[ 96.66251378 268.14322866]
+*******************
+tensor([1., 0.])
+[ 96.66251378 268.14322866]
+*******************
+tensor([1., 0.])
+[ 96.66251378 268.14322866]
+*******************
+tensor([1., 0.])
+[ 96.66251378 268.14322866]
+*******************
+tensor([1., 0.])
+[ 289.87636563 1540.17737021]
+*******************
+tensor([1., 0.])
+[ 289.87636563 1540.17737021]
+*******************
+tensor([0.2000, 0.8000])
+[ 559.63311109 2009.25519747]
+*******************
+tensor([0.2000, 0.8000])
+[ 559.63311109 2009.25519747]
+*******************
+tensor([0.6000, 0.4000])
+[ 482.18521872 1417.96234349]
+*******************
+tensor([0.6000, 0.4000])
+[ 338.17081144 1838.97848817]
+*******************
+tensor([1., 0.])
+[ 289.87636563 1540.17737021]
+*******************
+tensor([0.6000, 0.4000])
+[ 482.18521872 1417.96234349]
+*******************
+tensor([0.2000, 0.8000])
+[ 559.63311109 2009.25519747]
+*******************
+tensor([0.6000, 0.4000])
+[ 338.17081144 1838.97848817]
+*******************
+tensor([0.2000, 0.8000])
+[ 429.93692502 2110.01533517]
+*******************
+tensor([0.6000, 0.4000])
+[ 449.01025054 1688.59429337]
+*******************
+*******************
+tensor([0.8000, 0.2000])
+[ 505.60562962 2080.37008884]
+*******************
+tensor([1., 0.])
+[ 289.87636563 1540.17737021]
+tensor([1., 0.])
+[ 499.23860214 1614.2449527 ]
+*******************
+tensor([0.4000, 0.6000])
+[ 489.9603606 1851.7661956]
+*******************
+tensor([0., 1.])
+[ 534.89926403 2456.20925053]
+*******************
+tensor([0.2000, 0.8000])
+[ 559.63311109 2009.25519747]
+*******************
+tensor([0.4000, 0.6000])
+[ 211.360554   1790.94120625]
+*******************
+tensor([0.6000, 0.4000])
+[ 482.18521872 1417.96234349]
+*******************
+tensor([0.6000, 0.4000])
+[ 338.17081144 1838.97848817]
+*******************
+tensor([0.8000, 0.2000])
+[ 755.75292546 1797.18729965]
+*******************
+tensor([0.2000, 0.8000])
+[ 499.88593492 1717.4424695 ]
+*******************
+tensor([0.4000, 0.6000])
+[ 493.08017182 1321.76350601]
+*******************
+tensor([1., 0.])
+[ 752.10707038 1845.27904219]
+*******************
+tensor([1., 0.])
+[ 403.01962364 1672.53107545]
+*******************
+tensor([0.6000, 0.4000])
+[ 338.17081144 1838.97848817]
+*******************
+tensor([0.6000, 0.4000])
+[ 497.7181319  1780.56021655]
+*******************
+tensor([1., 0.])
+[ 289.87636563 1540.17737021]
+*******************
+tensor([0.4000, 0.6000])
+[ 211.360554   1790.94120625]
+*******************
+tensor([1., 0.])
+[ 403.01962364 1672.53107545]
+*******************
+tensor([0.6000, 0.4000])
+[ 441.82156897 1754.76318709]
+*******************
+tensor([0., 1.])
+[ 157.53719131 1986.7383793 ]
+*******************
+*******************
+tensor([0.6000, 0.4000])
+[ 449.01025054 1688.59429337]
+*******************
+tensor([0.4000, 0.6000])
+[ 493.08017182 1321.76350601]
+*******************
+tensor([0., 1.])
+[ 157.53719131 1986.7383793 ]
+*******************
+tensor([0.2000, 0.8000])
+[ 559.63311109 2009.25519747]
+tensor([0.6000, 0.4000])
+[ 338.17081144 1838.97848817]
+*******************
+tensor([0.8000, 0.2000])
+*******************
+*******************
+tensor([0., 1.])
+[ 493.95326134 1033.79629462]
+tensor([0.2000, 0.8000])
+[ 429.93692502 2110.01533517]
+[ 755.75292546 1797.18729965]
+*******************
+tensor([1., 0.])
+*******************
+tensor([0., 1.])
+[ 534.89926403 2456.20925053]
+*******************
+tensor([0.8000, 0.2000])
+[ 505.60562962 2080.37008884]
+*******************
+tensor([0.6000, 0.4000])
+[ 441.82156897 1754.76318709]
+*******************
+tensor([0.2000, 0.8000])
+[ 499.88593492 1717.4424695 ]
+[ 499.23860214 1614.2449527 ]
+*******************
+tensor([0.8000, 0.2000])
+[ 506.79258841 2149.78015507]
+*******************
+tensor([1., 0.])
+[ 499.23860214 1614.2449527 ]
+*******************
+tensor([0.6000, 0.4000])
+[ 497.7181319  1780.56021655]
+*******************
+tensor([0.6000, 0.4000])
+[ 449.01025054 1688.59429337]
+*******************
+*******************
+tensor([0.2000, 0.8000])
+[ 483.82882491 2388.1026228 ]
+*******************
+tensor([0.2000, 0.8000])
+[ 429.93692502 2110.01533517]
+*******************
+tensor([0.4000, 0.6000])
+[ 490.85146712 2340.98089639]
+tensor([0., 1.])
+[ 493.95326134 1033.79629462]
+*******************
+tensor([0.8000, 0.2000])
+[ 506.79258841 2149.78015507]
+*******************
+tensor([0., 1.])
+[ 534.89926403 2456.20925053]
+*******************
+tensor([0.8000, 0.2000])
+[ 505.60562962 2080.37008884]
+*******************
+tensor([1., 0.])
+[ 752.10707038 1845.27904219]
+*******************
+*******************
+tensor([0.4000, 0.6000])
+[ 489.9603606 1851.7661956]
+tensor([0.2000, 0.8000])
+[ 483.82882491 2388.1026228 ]
+*******************
+tensor([0.4000, 0.6000])
+[ 489.9603606 1851.7661956]
+*******************
+tensor([0.4000, 0.6000])
+[ 498.18059637 2044.1523156 ]
+*******************
+tensor([0.2000, 0.8000])
+[ 408.29511704 1704.31940341]
+*******************
+tensor([0.6000, 0.4000])
+[ 482.18521872 1417.96234349]
+*******************
+*******************
+tensor([0.2000, 0.8000])
+[ 499.88593492 1717.4424695 ]
+*******************
+tensor([0.8000, 0.2000])
+[ 494.31604716 2244.31931573]
+tensor([0., 1.])
+[ 523.0979727  1641.96872424]
+*******************
+tensor([0.4000, 0.6000])
+[ 211.360554   1790.94120625]
+*******************
+tensor([0.8000, 0.2000])
+*******************
+tensor([0.8000, 0.2000])
+[ 807.08944395 2142.35266898]
+[ 807.08944395 2142.35266898]
+*******************
+tensor([0.4000, 0.6000])
+[ 498.18059637 2044.1523156 ]
+*******************
+tensor([0.8000, 0.2000])
+[ 755.75292546 1797.18729965]
+*******************
+tensor([0.8000, 0.2000])
+[ 506.79258841 2149.78015507]
+*******************
+tensor([0.4000, 0.6000])
+[ 211.360554   1790.94120625]
+*******************
+tensor([0.4000, 0.6000])
+[ 493.08017182 1321.76350601]
+*******************
+tensor([0., 1.])
+[ 157.53719131 1986.7383793 ]
+*******************
+tensor([0.4000, 0.6000])
+[ 211.360554   1790.94120625]
+*******************
+tensor([0.6000, 0.4000])
+[ 482.18521872 1417.96234349]
+*******************
+tensor([1., 0.])
+[ 752.10707038 1845.27904219]
+*******************
+tensor([0., 1.])
+[ 523.0979727  1641.96872424]
+*******************
+tensor([0.6000, 0.4000])
+*******************
+tensor([0.2000, 0.8000])
+[ 483.82882491 2388.1026228 ]
+*******************
+*******************
+tensor([0., 1.])
+[ 493.95326134 1033.79629462]
+tensor([0., 1.])
+[ 493.95326134 1033.79629462]
+*******************
+tensor([0., 1.])
+[ 500.19076424 1688.10793265]
+*******************
+tensor([0.2000, 0.8000])
+[ 408.29511704 1704.31940341]
+[ 497.7181319  1780.56021655]
+*******************
+tensor([0.2000, 0.8000])
+[ 483.82882491 2388.1026228 ]
+*******************
+tensor([1., 0.])
+[ 403.01962364 1672.53107545]
+*******************
+tensor([0.8000, 0.2000])
+[ 506.79258841 2149.78015507]
+*******************
+tensor([0.2000, 0.8000])
+[ 483.82882491 2388.1026228 ]
+*******************
+tensor([0.4000, 0.6000])
+[ 490.85146712 2340.98089639]
+*******************
+tensor([0.6000, 0.4000])
+[ 441.82156897 1754.76318709]
+*******************
+tensor([0.8000, 0.2000])
+[ 494.31604716 2244.31931573]
+*******************
+tensor([0.8000, 0.2000])
+*******************
+tensor([1., 0.])
+[ 403.01962364 1672.53107545]
+*******************
+tensor([0.2000, 0.8000])
+[ 499.88593492 1717.4424695 ]
+[ 506.79258841 2149.78015507]
+*******************
+tensor([0.6000, 0.4000])
+[ 441.82156897 1754.76318709]
+*******************
+tensor([0.6000, 0.4000])
+[ 449.01025054 1688.59429337]
+*******************
+*******************
+tensor([0.4000, 0.6000])
+[ 493.08017182 1321.76350601]
+tensor([0., 1.])
+[ 523.0979727  1641.96872424]
+*******************
+tensor([1., 0.])
+[ 499.23860214 1614.2449527 ]
+*******************
+tensor([0., 1.])
+[ 157.53719131 1986.7383793 ]
+*******************
+tensor([0.6000, 0.4000])
+[ 449.01025054 1688.59429337]
+*******************
+tensor([0.8000, 0.2000])
+[ 505.60562962 2080.37008884]
+*******************
+tensor([0.8000, 0.2000])
+[ 807.08944395 2142.35266898]
+*******************
+tensor([0.2000, 0.8000])
+[ 429.93692502 2110.01533517]
+*******************
+tensor([0.4000, 0.6000])
+[ 489.9603606 1851.7661956]
+*******************
+tensor([1., 0.])
+[ 499.23860214 1614.2449527 ]
+*******************
+tensor([1., 0.])
+[ 752.10707038 1845.27904219]
+*******************
+tensor([0.4000, 0.6000])
+[ 489.9603606 1851.7661956]
+*******************
+tensor([0.2000, 0.8000])
+[ 408.29511704 1704.31940341]
+*******************
+tensor([0.2000, 0.8000])
+[ 408.29511704 1704.31940341]
+*******************
+*******************
+tensor([0.8000, 0.2000])
+[ 807.08944395 2142.35266898]
+*******************
+tensor([0.2000, 0.8000])
+[ 429.93692502 2110.01533517]
+tensor([0.4000, 0.6000])
+[ 490.85146712 2340.98089639]
+*******************
+tensor([0., 1.])
+[ 500.19076424 1688.10793265]
+*******************
+tensor([0.4000, 0.6000])
+[ 498.18059637 2044.1523156 ]
+*******************
+tensor([0.8000, 0.2000])
+[ 755.75292546 1797.18729965]
+*******************
+tensor([0.8000, 0.2000])
+[ 494.31604716 2244.31931573]
+*******************
+tensor([0., 1.])
+[ 534.89926403 2456.20925053]
+*******************
+tensor([0.6000, 0.4000])
+[ 497.7181319  1780.56021655]
+*******************
+tensor([0., 1.])
+[ 523.0979727  1641.96872424]
+*******************
+tensor([0.4000, 0.6000])
+[ 498.18059637 2044.1523156 ]
+*******************
+tensor([0., 1.])
+[ 157.53719131 1986.7383793 ]
+*******************
+tensor([0.8000, 0.2000])
+[ 494.31604716 2244.31931573]
+*******************
+tensor([0.4000, 0.6000])
+[ 490.85146712 2340.98089639]
+*******************
+tensor([0.4000, 0.6000])
+[ 493.08017182 1321.76350601]
+*******************
+tensor([0., 1.])
+[ 493.95326134 1033.79629462]
+*******************
+*******************
+tensor([0.2000, 0.8000])
+[ 499.88593492 1717.4424695 ]
+tensor([0., 1.])
+[ 534.89926403 2456.20925053]
+*******************
+tensor([0.8000, 0.2000])
+[ 505.60562962 2080.37008884]
+*******************
+tensor([0., 1.])
+[ 500.19076424 1688.10793265]
+*******************
+tensor([0.4000, 0.6000])
+[ 490.85146712 2340.98089639]
+*******************
+tensor([1., 0.])
+[ 752.10707038 1845.27904219]
+*******************
+tensor([0.8000, 0.2000])
+[ 755.75292546 1797.18729965]
+*******************
+*******************
+tensor([0.6000, 0.4000])
+[ 441.82156897 1754.76318709]
+tensor([0., 1.])
+[ 500.19076424 1688.10793265]
+*******************
+tensor([1., 0.])
+[ 403.01962364 1672.53107545]
+*******************
+tensor([0.4000, 0.6000])
+[ 498.18059637 2044.1523156 ]
+*******************
+tensor([0., 1.])
+[ 500.19076424 1688.10793265]
+*******************
+tensor([0.6000, 0.4000])
+[ 497.7181319  1780.56021655]
+*******************
+*******************
+tensor([0.8000, 0.2000])
+[ 494.31604716 2244.31931573]
+tensor([0., 1.])
+[ 523.0979727  1641.96872424]
+*******************
+tensor([0.8000, 0.2000])
+[ 807.08944395 2142.35266898]
+*******************
+tensor([0.2000, 0.8000])
+[ 408.29511704 1704.31940341]
+*******************
+tensor([1., 0.])
+[209.13162065 609.29358313]
+*******************
+tensor([1., 0.])
+[209.13162065 609.29358313]
+*******************
+tensor([1., 0.])
+[209.13162065 609.29358313]
+*******************
+tensor([1., 0.])
+[209.13162065 609.29358313]
+*******************
+tensor([0.6000, 0.4000])
+[120.11762304 363.31825811]
+*******************
+tensor([0.6000, 0.4000])
+[120.11762304 363.31825811]
+*******************
+tensor([1., 0.])
+[209.13162065 609.29358313]
+*******************
+tensor([1., 0.])
+[ 494.83265753 1958.35411363]
+*******************
+tensor([1., 0.])
+[ 494.83265753 1958.35411363]
+*******************
+tensor([0.2000, 0.8000])
+[ 584.24738948 2016.44637481]
+*******************
+tensor([0.8000, 0.2000])
+[ 81.70111958 296.47279863]
+*******************
+tensor([0.2000, 0.8000])
+[ 584.24738948 2016.44637481]
+*******************
+tensor([0.6000, 0.4000])
+[120.11762304 363.31825811]
+*******************
+tensor([0.8000, 0.2000])
+[ 81.70111958 296.47279863]
+*******************
+tensor([0.6000, 0.4000])
+[ 264.32848532 1825.96409735]
+*******************
+tensor([1., 0.])
+[ 494.83265753 1958.35411363]
+*******************
+tensor([0.2000, 0.8000])
+[ 595.20186205 2322.31229703]
+*******************
+tensor([0.6000, 0.4000])
+[ 477.8817658  1751.99808708]
+*******************
+tensor([1., 0.])
+[ 499.79471422 1626.09173205]
+*******************
+tensor([0., 1.])
+[ 529.29801845 2450.60480845]
+*******************
+tensor([0.8000, 0.2000])
+[ 503.65789158 2119.65010618]
+*******************
+tensor([0.2000, 0.8000])
+[ 584.24738948 2016.44637481]
+*******************
+tensor([0.4000, 0.6000])
+[ 487.92940218 1774.7575934 ]
+*******************
+tensor([0.6000, 0.4000])
+[ 264.32848532 1825.96409735]
+*******************
+tensor([0.8000, 0.2000])
+[ 81.70111958 296.47279863]
+*******************
+tensor([0.6000, 0.4000])
+[120.11762304 363.31825811]
+*******************
+tensor([0.8000, 0.2000])
+[ 760.35188393 1787.82647933]
+*******************
+tensor([0.4000, 0.6000])
+[ 492.92938235 1410.17188593]
+*******************
+tensor([0.2000, 0.8000])
+[ 500.49953587 1629.38958098]
+*******************
+tensor([0.4000, 0.6000])
+[ 154.62285069 1941.1628691 ]
+*******************
+tensor([0.8000, 0.2000])
+[ 81.70111958 296.47279863]
+*******************
+tensor([0.6000, 0.4000])
+[ 497.48779265 1795.68781143]
+*******************
+tensor([1., 0.])
+[ 526.67803249 1574.61901621]
+*******************
+tensor([1., 0.])
+[ 658.28144434 1914.65425919]
+*******************
+tensor([0.6000, 0.4000])
+[120.11762304 363.31825811]
+*******************
+*******************
+tensor([1., 0.])
+[ 494.83265753 1958.35411363]
+*******************
+tensor([0.8000, 0.2000])
+[ 81.70111958 296.47279863]
+tensor([0., 1.])
+[ 368.9986234  2185.32344111]
+*******************
+tensor([0.8000, 0.2000])
+[ 760.35188393 1787.82647933]
+*******************
+tensor([0.6000, 0.4000])
+[ 264.32848532 1825.96409735]
+*******************
+tensor([1., 0.])
+[ 658.28144434 1914.65425919]
+*******************
+tensor([0.4000, 0.6000])
+[ 492.92938235 1410.17188593]
+*******************
+tensor([0.6000, 0.4000])
+[ 664.453961   1926.14872931]
+*******************
+tensor([0.4000, 0.6000])
+*******************
+tensor([0., 1.])
+[ 368.9986234  2185.32344111]
+[ 154.62285069 1941.1628691 ]
+*******************
+*******************
+tensor([0., 1.])
+[ 493.08259719 1036.61383381]
+*******************
+tensor([0.6000, 0.4000])
+[ 477.8817658  1751.99808708]
+*******************
+tensor([0.2000, 0.8000])
+[ 500.49953587 1629.38958098]
+tensor([0.6000, 0.4000])
+[ 664.453961   1926.14872931]
+*******************
+tensor([0.2000, 0.8000])
+[ 584.24738948 2016.44637481]
+*******************
+tensor([0.6000, 0.4000])
+[ 264.32848532 1825.96409735]
+*******************
+tensor([0.2000, 0.8000])
+[ 595.20186205 2322.31229703]
+*******************
+tensor([0., 1.])
+[ 529.29801845 2450.60480845]
+*******************
+tensor([0.6000, 0.4000])
+[ 497.48779265 1795.68781143]
+*******************
+tensor([1., 0.])
+[ 526.67803249 1574.61901621]
+*******************
+tensor([0.8000, 0.2000])
+[ 503.65789158 2119.65010618]
+*******************
+tensor([1., 0.])
+[ 499.79471422 1626.09173205]
+*******************
+tensor([0.6000, 0.4000])
+[ 477.8817658  1751.99808708]
+*******************
+tensor([1., 0.])
+[ 499.79471422 1626.09173205]
+*******************
+tensor([0.2000, 0.8000])
+[ 496.30980557 2395.13929438]
+*******************
+tensor([0.8000, 0.2000])
+[ 503.65789158 2119.65010618]
+*******************
+tensor([0., 1.])
+[ 529.29801845 2450.60480845]
+*******************
+tensor([0.4000, 0.6000])
+[ 477.17563492 2349.71879242]
+*******************
+tensor([0.2000, 0.8000])
+[ 595.20186205 2322.31229703]
+*******************
+tensor([0.6000, 0.4000])
+[ 264.32848532 1825.96409735]
+*******************
+tensor([0., 1.])
+[ 493.08259719 1036.61383381]
+*******************
+*******************
+tensor([1., 0.])
+[ 494.83265753 1958.35411363]
+*******************
+tensor([0.2000, 0.8000])
+[ 405.35013994 1720.03987497]
+tensor([0.4000, 0.6000])
+[ 487.92940218 1774.7575934 ]
+*******************
+tensor([0.4000, 0.6000])
+[ 498.83843384 1974.23696863]
+*******************
+tensor([0.2000, 0.8000])
+*******************
+[ 496.30980557 2395.13929438]
+tensor([0.4000, 0.6000])
+[ 487.92940218 1774.7575934 ]
+*******************
+tensor([0.2000, 0.8000])
+[ 584.24738948 2016.44637481]
+*******************
+tensor([0.8000, 0.2000])
+[ 502.03323212 2221.95794335]
+*******************
+tensor([0.8000, 0.2000])
+[ 807.92134601 2152.55071098]
+*******************
+tensor([0., 1.])
+[ 622.74232734 1603.57927217]
+*******************
+tensor([0.4000, 0.6000])
+[ 498.83843384 1974.23696863]
+*******************
+tensor([0.4000, 0.6000])
+[ 154.62285069 1941.1628691 ]
+*******************
+tensor([0.8000, 0.2000])
+[ 807.92134601 2152.55071098]
+*******************
+tensor([0.2000, 0.8000])
+[ 500.49953587 1629.38958098]
+*******************
+tensor([0., 1.])
+[ 622.74232734 1603.57927217]
+*******************
+tensor([0.8000, 0.2000])
+[ 760.35188393 1787.82647933]
+*******************
+tensor([0.2000, 0.8000])
+[ 405.35013994 1720.03987497]
+*******************
+tensor([0.4000, 0.6000])
+[ 492.92938235 1410.17188593]
+*******************
+tensor([0., 1.])
+[ 368.9986234  2185.32344111]
+*******************
+tensor([0.6000, 0.4000])
+[ 497.48779265 1795.68781143]
+*******************
+tensor([0.4000, 0.6000])
+[ 154.62285069 1941.1628691 ]
+*******************
+tensor([1., 0.])
+[ 526.67803249 1574.61901621]
+*******************
+tensor([0.4000, 0.6000])
+[ 154.62285069 1941.1628691 ]
+*******************
+tensor([0.4000, 0.6000])
+[ 477.17563492 2349.71879242]
+*******************
+tensor([0., 1.])
+*******************
+tensor([0., 1.])
+[ 499.09872561 1614.60768103]
+*******************
+tensor([0.2000, 0.8000])
+[ 496.30980557 2395.13929438]
+[ 493.08259719 1036.61383381]
+*******************
+tensor([1., 0.])
+[ 658.28144434 1914.65425919]
+*******************
+tensor([0.2000, 0.8000])
+[ 496.30980557 2395.13929438]
+*******************
+tensor([0.6000, 0.4000])
+[ 664.453961   1926.14872931]
+*******************
+tensor([0.8000, 0.2000])
+[ 502.03323212 2221.95794335]
+*******************
+tensor([0., 1.])
+[ 493.08259719 1036.61383381]
+*******************
+tensor([0.2000, 0.8000])
+[ 496.30980557 2395.13929438]
+*******************
+tensor([1., 0.])
+[ 658.28144434 1914.65425919]
+*******************
+tensor([0.6000, 0.4000])
+[ 664.453961   1926.14872931]
+*******************
+*******************
+tensor([0., 1.])
+[ 622.74232734 1603.57927217]
+tensor([0.2000, 0.8000])
+[ 500.49953587 1629.38958098]
+*******************
+tensor([0.6000, 0.4000])
+[ 477.8817658  1751.99808708]
+*******************
+tensor([0.8000, 0.2000])
+[ 807.92134601 2152.55071098]
+*******************
+*******************
+tensor([0.4000, 0.6000])
+[ 492.92938235 1410.17188593]
+tensor([0.6000, 0.4000])
+[ 477.8817658  1751.99808708]
+*******************
+tensor([0.2000, 0.8000])
+[ 405.35013994 1720.03987497]
+*******************
+tensor([0.4000, 0.6000])
+[ 477.17563492 2349.71879242]
+*******************
+tensor([0., 1.])
+[ 368.9986234  2185.32344111]
+*******************
+*******************
+tensor([1., 0.])
+[ 499.79471422 1626.09173205]
+*******************
+tensor([0.4000, 0.6000])
+[ 487.92940218 1774.7575934 ]
+tensor([0.8000, 0.2000])
+[ 503.65789158 2119.65010618]
+*******************
+tensor([1., 0.])
+[ 499.79471422 1626.09173205]
+*******************
+tensor([0.8000, 0.2000])
+[ 807.92134601 2152.55071098]
+*******************
+tensor([0.2000, 0.8000])
+[ 405.35013994 1720.03987497]
+*******************
+tensor([0.8000, 0.2000])
+[ 502.03323212 2221.95794335]
+*******************
+tensor([0.2000, 0.8000])
+[ 595.20186205 2322.31229703]
+*******************
+tensor([0.2000, 0.8000])
+[ 595.20186205 2322.31229703]
+*******************
+tensor([0.8000, 0.2000])
+[ 760.35188393 1787.82647933]
+*******************
+tensor([0.4000, 0.6000])
+[ 487.92940218 1774.7575934 ]
+*******************
+tensor([1., 0.])
+[ 526.67803249 1574.61901621]
+*******************
+tensor([0.4000, 0.6000])
+[ 498.83843384 1974.23696863]
+*******************
+tensor([0.6000, 0.4000])
+[ 497.48779265 1795.68781143]
+*******************
+tensor([0.4000, 0.6000])
+[ 498.83843384 1974.23696863]
+*******************
+tensor([0., 1.])
+[ 529.29801845 2450.60480845]
+*******************
+tensor([0., 1.])
+[ 499.09872561 1614.60768103]
+*******************
+tensor([0., 1.])
+[ 622.74232734 1603.57927217]
+*******************
+tensor([0., 1.])
+[ 368.9986234  2185.32344111]
+*******************
+tensor([0.8000, 0.2000])
+[ 502.03323212 2221.95794335]
+*******************
+tensor([0.2000, 0.8000])
+[ 500.49953587 1629.38958098]
+*******************
+tensor([0.4000, 0.6000])
+[ 492.92938235 1410.17188593]
+*******************
+tensor([0., 1.])
+[ 493.08259719 1036.61383381]
+*******************
+*******************
+tensor([0.4000, 0.6000])
+[ 477.17563492 2349.71879242]
+tensor([0., 1.])
+[ 529.29801845 2450.60480845]
+*******************
+tensor([0.6000, 0.4000])
+[ 664.453961   1926.14872931]
+*******************
+tensor([0.8000, 0.2000])
+[ 503.65789158 2119.65010618]
+*******************
+tensor([0.4000, 0.6000])
+[ 477.17563492 2349.71879242]
+*******************
+tensor([0.8000, 0.2000])
+[ 760.35188393 1787.82647933]
+*******************
+tensor([0., 1.])
+[ 499.09872561 1614.60768103]
+*******************
+tensor([1., 0.])
+[ 526.67803249 1574.61901621]
+*******************
+tensor([0., 1.])
+[ 499.09872561 1614.60768103]
+*******************
+tensor([0.4000, 0.6000])
+[ 498.83843384 1974.23696863]
+*******************
+tensor([1., 0.])
+[ 658.28144434 1914.65425919]
+*******************
+tensor([0., 1.])
+[ 622.74232734 1603.57927217]
+*******************
+tensor([0.8000, 0.2000])
+[ 502.03323212 2221.95794335]
+*******************
+tensor([0.6000, 0.4000])
+[ 497.48779265 1795.68781143]
+*******************
+tensor([0., 1.])
+[ 499.09872561 1614.60768103]
+*******************
+tensor([0.8000, 0.2000])
+[ 807.92134601 2152.55071098]
+*******************
+tensor([0.2000, 0.8000])
+[ 405.35013994 1720.03987497]
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+slurmstepd: error: *** STEP 2392524.0 ON c1366 CANCELLED AT 2023-05-26T22:23:50 ***
+slurmstepd: error: *** JOB 2392524 ON c1366 CANCELLED AT 2023-05-26T22:23:50 ***

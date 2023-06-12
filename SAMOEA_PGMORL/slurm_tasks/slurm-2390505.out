@@ -1,0 +1,588 @@
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    env = cls(**_kwargs)
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    main()
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    main()
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+    cymj = load_cython_ext(mujoco_path)
+    cymj = load_cython_ext(mujoco_path)
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+    cymj = load_cython_ext(mujoco_path)
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+    cymj = load_cython_ext(mujoco_path)
+    cymj = load_cython_ext(mujoco_path)
+    cymj = load_cython_ext(mujoco_path)
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+    cymj = load_cython_ext(mujoco_path)
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+    cymj = load_cython_ext(mujoco_path)
+    cymj = load_cython_ext(mujoco_path)
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+    cymj = load_cython_ext(mujoco_path)
+    cymj = load_cython_ext(mujoco_path)
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+    cymj = load_cython_ext(mujoco_path)
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+Traceback (most recent call last):
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+    raise Exception("\nMissing path to your environment variable. \n"
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    raise Exception("\nMissing path to your environment variable. \n"
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+Exception: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidiaException: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia
+
+    raise Exception("\nMissing path to your environment variable. \n"
+    raise Exception("\nMissing path to your environment variable. \n"
+    raise Exception("\nMissing path to your environment variable. \n"
+Exception: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidiaException: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia
+Exception: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia
+
+    raise Exception("\nMissing path to your environment variable. \n"
+    raise Exception("\nMissing path to your environment variable. \n"
+    raise Exception("\nMissing path to your environment variable. \n"
+    raise Exception("\nMissing path to your environment variable. \n"
+Exception: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia
+Exception: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidiaException: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia
+Exception: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia
+    raise Exception("\nMissing path to your environment variable. \n"
+
+    raise Exception("\nMissing path to your environment variable. \n"
+Exception: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidiaException: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia
+
+    raise Exception("\nMissing path to your environment variable. \n"
+Exception: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    cymj = load_cython_ext(mujoco_path)
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    raise Exception("\nMissing path to your environment variable. \n"
+Exception: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    cymj = load_cython_ext(mujoco_path)
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/half_cheetah.py", line 13, in __init__
+    raise Exception("\nMissing path to your environment variable. \n"
+Exception: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+    cymj = load_cython_ext(mujoco_path)
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/half_cheetah.xml"), frame_skip = 5, mujoco_bindings="mujoco_py")
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 54, in __init__
+    import mujoco_py
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/__init__.py", line 2, in <module>
+    cymj = load_cython_ext(mujoco_path)
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+    cymj = load_cython_ext(mujoco_path)
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+    raise Exception("\nMissing path to your environment variable. \n"
+Exception: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia    raise Exception("\nMissing path to your environment variable. \n"
+
+Exception: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia
+    from mujoco_py.builder import cymj, ignore_mujoco_warnings, functions, MujocoException
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 504, in <module>
+    raise Exception("\nMissing path to your environment variable. \n"
+Exception: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia
+    cymj = load_cython_ext(mujoco_path)
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 76, in load_cython_ext
+    _ensure_set_env_var("LD_LIBRARY_PATH", get_nvidia_lib_dir())
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/mujoco_py/builder.py", line 120, in _ensure_set_env_var
+    raise Exception("\nMissing path to your environment variable. \n"
+Exception: 
+Missing path to your environment variable. 
+Current values LD_LIBRARY_PATH=/users/mazumdar/.local/lib/python3.9/site-packages/cv2/../../lib64:/appl/spack/v017/install-tree/gcc-11.2.0/openblas-0.3.18-eb6g7n/lib:/appl/spack/v017/install-tree/gcc-11.2.0/openmpi-4.1.2-h6c3ze/lib:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib64:/appl/spack/v017/install-tree/gcc-8.5.0/gcc-11.2.0-zshp2k/lib:/users/mazumdar/.mujoco/mujoco210/bin:/users/mazumdar/.mujoco/mujoco210/bin:/.singularity.d/libs
+Please add following line to .bashrc:
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia
+Process 0 done
+Process 1 done
+Process 2 done
+Process 3 done
+Process 4 done
+Process 5 done
+Process 6 done
+Process 7 done
+Process 8 done
+Process 9 done
+Process 10 done
+Process 11 done
+Process 12 killed
+Process 13 done
+Process 14 killed
+Process 15 killed
+Process 16 killed
+Process 17 done
+Process 18 done
+Process 19 done
+Process 20 killed
+Process 21 done
+Process 22 killed
+Process 23 done
+Process 24 killed
+Process 25 done
+Process 26 killed
+Process 27 done
+Process 28 killed
+Process 29 done

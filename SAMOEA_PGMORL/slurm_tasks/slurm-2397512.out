@@ -1,0 +1,321 @@
+srun: Warning: can't run 1 processes on 2 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 2 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 2 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 2 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 2 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 2 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 2 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 2 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 2 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 2 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 2 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 2 nodes, setting nnodes to 1
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+*******************
+tensor([0., 1.])
+[-32.98561167 111.18123624]
+*******************
+tensor([0.2000, 0.8000])
+[ 46.27947612 125.27098284]
+*******************
+tensor([1., 0.])
+[-24.71317404 119.93427759]
+*******************
+tensor([0.8000, 0.2000])
+[ 40.63502997 147.4175846 ]
+*******************
+tensor([0.6000, 0.4000])
+[ 15.87400181 145.31331552]
+*******************
+tensor([0.4000, 0.6000])
+[-20.44029043 100.72996934]
+*******************
+*******************
+tensor([1., 0.])
+[-24.71317404 119.93427759]
+*******************
+tensor([0., 1.])
+[-32.98561167 111.18123624]
+tensor([0.8000, 0.2000])
+[ 40.63502997 147.4175846 ]
+*******************
+tensor([0.2000, 0.8000])
+[ 46.27947612 125.27098284]
+*******************
+tensor([0.6000, 0.4000])
+[ 15.87400181 145.31331552]
+*******************
+tensor([0.4000, 0.6000])
+[-20.44029043 100.72996934]
+*******************
+tensor([0.2000, 0.8000])
+[ 46.27947612 125.27098284]
+*******************
+tensor([1., 0.])
+[-24.71317404 119.93427759]
+*******************
+tensor([0.6000, 0.4000])
+[ 15.87400181 145.31331552]
+*******************
+tensor([0.4000, 0.6000])
+[-20.44029043 100.72996934]
+*******************
+tensor([0.8000, 0.2000])
+[ 40.63502997 147.4175846 ]
+*******************
+tensor([0., 1.])
+[-32.98561167 111.18123624]
+*******************
+tensor([0.6000, 0.4000])
+[ 4.62528543 62.31317886]
+*******************
+*******************
+tensor([0.6000, 0.4000])
+[ 4.62528543 62.31317886]
+tensor([1., 0.])
+[ 18.67316995 203.71845722]
+*******************
+tensor([0., 1.])
+[ 27.36938031 195.39254575]
+*******************
+tensor([0.4000, 0.6000])
+[ 23.68198496 181.51635085]
+*******************
+tensor([0.4000, 0.6000])
+[ 23.68198496 181.51635085]
+*******************
+tensor([1., 0.])
+[ 18.67316995 203.71845722]
+*******************
+tensor([0., 1.])
+[ 27.36938031 195.39254575]
+*******************
+tensor([0.8000, 0.2000])
+[ 35.88219177 426.08155363]
+*******************
+tensor([0.8000, 0.2000])
+[ 35.88219177 426.08155363]
+*******************
+tensor([0.2000, 0.8000])
+[292.76545522 634.26178434]
+*******************
+tensor([0.2000, 0.8000])
+[292.76545522 634.26178434]
+*******************
+tensor([0.6000, 0.4000])
+[-146.16784397 -143.13767522]
+*******************
+tensor([0., 1.])
+[-102.67989635 -105.08341459]
+*******************
+tensor([0.8000, 0.2000])
+[194.02093432 189.51190083]
+*******************
+tensor([0.2000, 0.8000])
+[10.04427294 11.62596147]
+*******************
+tensor([1., 0.])
+[92.23023429 92.61088699]
+*******************
+tensor([0.4000, 0.6000])
+[-197.9777929  -193.84901886]
+*******************
+tensor([0.6000, 0.4000])
+[-146.16784397 -143.13767522]
+*******************
+tensor([0., 1.])
+[-102.67989635 -105.08341459]
+*******************
+tensor([0.2000, 0.8000])
+[10.04427294 11.62596147]
+*******************
+tensor([0.8000, 0.2000])
+[194.02093432 189.51190083]
+*******************
+tensor([1., 0.])
+[92.23023429 92.61088699]
+*******************
+tensor([0.4000, 0.6000])
+[-197.9777929  -193.84901886]
+*******************
+*******************
+tensor([0.6000, 0.4000])
+[-146.16784397 -143.13767522]
+tensor([0., 1.])
+[-102.67989635 -105.08341459]
+*******************
+*******************
+tensor([0.8000, 0.2000])
+[194.02093432 189.51190083]
+tensor([0.2000, 0.8000])
+[10.04427294 11.62596147]
+*******************
+tensor([0.4000, 0.6000])
+[-197.9777929  -193.84901886]
+*******************
+tensor([1., 0.])
+[92.23023429 92.61088699]
+*******************
+tensor([0., 1.])
+[-24.53874704 110.97325699]
+*******************
+tensor([0.2000, 0.8000])
+[ 55.65279253 130.86871702]
+*******************
+tensor([1., 0.])
+[-15.51875912 111.62140698]
+*******************
+tensor([0.8000, 0.2000])
+[ 15.81879531 146.58092502]
+*******************
+tensor([0.6000, 0.4000])
+[ 25.29247801 139.69727851]
+*******************
+tensor([0.4000, 0.6000])
+[-19.21246101 116.85872431]
+*******************
+tensor([0., 1.])
+[-24.53874704 110.97325699]
+*******************
+tensor([1., 0.])
+[-15.51875912 111.62140698]
+*******************
+tensor([0.8000, 0.2000])
+[ 15.81879531 146.58092502]
+*******************
+tensor([0.2000, 0.8000])
+[ 55.65279253 130.86871702]
+*******************
+tensor([0.6000, 0.4000])
+[ 25.29247801 139.69727851]
+*******************
+tensor([0.4000, 0.6000])
+[-19.21246101 116.85872431]
+*******************
+tensor([1., 0.])
+[-15.51875912 111.62140698]
+*******************
+tensor([0.6000, 0.4000])
+*******************
+tensor([0.8000, 0.2000])
+[ 15.81879531 146.58092502]
+[ 25.29247801 139.69727851]
+*******************
+tensor([0.2000, 0.8000])
+[ 55.65279253 130.86871702]
+*******************
+tensor([0.4000, 0.6000])
+[-19.21246101 116.85872431]
+*******************
+tensor([0., 1.])
+[-24.53874704 110.97325699]
+*******************
+tensor([0.4000, 0.6000])
+[ 19.84210614 171.60378837]
+*******************
+tensor([0.4000, 0.6000])
+[ 19.84210614 171.60378837]
+*******************
+tensor([0., 1.])
+[ 35.96894671 234.02098266]
+*******************
+tensor([1., 0.])
+[ 30.16387035 265.62949935]
+*******************
+tensor([1., 0.])
+[ 30.16387035 265.62949935]
+*******************
+tensor([0., 1.])
+[ 35.96894671 234.02098266]
+*******************
+tensor([0.2000, 0.8000])
+[  2.12472182 172.51731639]
+*******************
+tensor([0.6000, 0.4000])
+[ 35.56453068 660.48415772]
+*******************
+tensor([0.2000, 0.8000])
+[  2.12472182 172.51731639]
+*******************
+tensor([0.6000, 0.4000])
+[ 35.56453068 660.48415772]
+*******************
+tensor([0.8000, 0.2000])
+[ 46.2699907  450.68185059]
+*******************
+tensor([0.8000, 0.2000])
+[ 46.2699907  450.68185059]
+srun: Job 2397512 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 2397512 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: error: Unable to create step for job 2397512: Job/step already completing or completed
+srun: error: Unable to create step for job 2397512: Job/step already completing or completed
+slurmstepd: error: *** STEP 2397512.5 ON c6326 CANCELLED AT 2023-05-27T22:36:12 ***
+slurmstepd: error: *** STEP 2397512.4 ON c6326 CANCELLED AT 2023-05-27T22:36:12 ***
+slurmstepd: error: *** STEP 2397512.2 ON c6326 CANCELLED AT 2023-05-27T22:36:12 ***
+slurmstepd: error: *** STEP 2397512.9 ON c6335 CANCELLED AT 2023-05-27T22:36:12 ***
+slurmstepd: error: *** STEP 2397512.3 ON c6326 CANCELLED AT 2023-05-27T22:36:12 ***
+slurmstepd: error: *** STEP 2397512.6 ON c6335 CANCELLED AT 2023-05-27T22:36:12 ***
+slurmstepd: error: *** STEP 2397512.0 ON c6326 CANCELLED AT 2023-05-27T22:36:12 ***
+slurmstepd: error: *** STEP 2397512.1 ON c6335 CANCELLED AT 2023-05-27T22:36:12 ***
+slurmstepd: error: *** JOB 2397512 ON c6326 CANCELLED AT 2023-05-27T22:36:12 ***
+slurmstepd: error: *** STEP 2397512.8 ON c6335 CANCELLED AT 2023-05-27T22:36:12 ***
+slurmstepd: error: *** STEP 2397512.7 ON c6335 CANCELLED AT 2023-05-27T22:36:12 ***

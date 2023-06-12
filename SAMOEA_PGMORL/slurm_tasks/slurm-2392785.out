@@ -1,0 +1,78 @@
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+slurmstepd: error: *** STEP 2392785.0 ON c2125 CANCELLED AT 2023-05-27T00:56:54 ***
+slurmstepd: error: *** JOB 2392785 ON c2125 CANCELLED AT 2023-05-27T00:56:54 ***

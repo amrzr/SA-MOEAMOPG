@@ -1,0 +1,18 @@
+usage: halfcheetah-v2.py [-h] [--pgmorl] [--ra] [--pfa] [--moead] [--random]
+                         [--num-seeds NUM_SEEDS]
+                         [--num-processes NUM_PROCESSES] [--save-dir SAVE_DIR]
+halfcheetah-v2.py: error: unrecognized arguments: --approach mean
+srun: error: c5225: task 0: Exited with exit code 2
+srun: launch/slurm: _step_signal: Terminating StepId=2396321.0
+usage: halfcheetah-v2.py [-h] [--pgmorl] [--ra] [--pfa] [--moead] [--random]
+                         [--num-seeds NUM_SEEDS]
+                         [--num-processes NUM_PROCESSES] [--save-dir SAVE_DIR]
+halfcheetah-v2.py: error: unrecognized arguments: --approach lcb
+srun: error: c5225: task 0: Exited with exit code 2
+srun: launch/slurm: _step_signal: Terminating StepId=2396321.1
+usage: halfcheetah-v2.py [-h] [--pgmorl] [--ra] [--pfa] [--moead] [--random]
+                         [--num-seeds NUM_SEEDS]
+                         [--num-processes NUM_PROCESSES] [--save-dir SAVE_DIR]
+halfcheetah-v2.py: error: unrecognized arguments: --approach PMOEA_MOPPO
+srun: error: c5225: task 0: Exited with exit code 2
+srun: launch/slurm: _step_signal: Terminating StepId=2396321.2

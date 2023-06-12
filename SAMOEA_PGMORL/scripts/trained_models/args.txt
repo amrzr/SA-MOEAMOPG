@@ -1,0 +1,1 @@
+['--env-name', 'two-way-v0', '--lr', '3e-4', '--use-linear-lr-decay', '--gamma', '0.995', '--use-gae', '--gae-lambda', '0.95', '--entropy-coef', '0', '--value-loss-coef', '0.5', '--num-steps', '2048', '--num-processes', '4', '--ppo-epoch', '10', '--num-mini-batch', '32', '--use-proper-time-limits', '--ob-rms', '--obj-rms', '--raw']

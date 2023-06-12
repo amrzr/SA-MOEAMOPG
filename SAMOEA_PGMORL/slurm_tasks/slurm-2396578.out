@@ -1,0 +1,84 @@
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+*******************
+tensor([0.6000, 0.4000])
+[  90.31582604 1662.16143414]
+*******************
+tensor([0.4000, 0.6000])
+[ 499.82125595 2120.14571931]
+*******************
+tensor([1., 0.])
+[ 543.03884203 1868.4725297 ]
+*******************
+tensor([0.2000, 0.8000])
+[ 438.07126644 1814.3856305 ]
+*******************
+tensor([0., 1.])
+[ 623.36542971 1663.51094233]
+*******************
+tensor([0.8000, 0.2000])
+[ 742.04396119 1982.83068037]
+*******************
+tensor([0.6000, 0.4000])
+[ 179.46368567 1812.71489208]
+*******************
+tensor([1., 0.])
+[ 379.04617984 1891.44668948]
+*******************
+tensor([0., 1.])
+[ 597.74303937 1670.65157687]
+*******************
+tensor([0.2000, 0.8000])
+[ 440.71356364 1860.54329997]
+*******************
+tensor([0.4000, 0.6000])
+[ 499.77834704 2068.41794218]
+*******************
+tensor([0.8000, 0.2000])
+[ 770.19138029 1986.56892076]
+*******************
+tensor([1., 0.])
+[ 403.01962364 1672.53107545]
+*******************
+tensor([0.6000, 0.4000])
+[ 441.82156897 1754.76318709]
+*******************
+tensor([0., 1.])
+[ 523.0979727  1641.96872424]
+*******************
+*******************
+tensor([0.2000, 0.8000])
+[ 408.29511704 1704.31940341]
+tensor([0.4000, 0.6000])
+[ 498.18059637 2044.1523156 ]
+*******************
+tensor([0.8000, 0.2000])
+[ 807.08944395 2142.35266898]
+*******************
+tensor([1., 0.])
+[ 658.28144434 1914.65425919]
+*******************
+tensor([0.6000, 0.4000])
+[ 664.453961   1926.14872931]
+*******************
+tensor([0., 1.])
+[ 622.74232734 1603.57927217]
+*******************
+tensor([0.2000, 0.8000])
+[ 405.35013994 1720.03987497]
+*******************
+tensor([0.4000, 0.6000])
+[ 498.83843384 1974.23696863]
+*******************
+tensor([0.8000, 0.2000])
+[ 807.92134601 2152.55071098]
+srun: Job 2396578 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 2396578 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: error: Unable to create step for job 2396578: Job/step already completing or completed
+srun: error: Unable to create step for job 2396578: Job/step already completing or completed
+slurmstepd: error: *** STEP 2396578.0 ON c5360 CANCELLED AT 2023-05-27T17:00:23 ***
+slurmstepd: error: *** JOB 2396578 ON c5360 CANCELLED AT 2023-05-27T17:00:23 ***

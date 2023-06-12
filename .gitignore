@@ -1,6 +1,3 @@
 conda_env
-MORL_files/main_files/runs
-MORL_files/main_files/__pycache__
-MORL_files/all_runs_hpc
-MORL_files/results
-MORL_files/slurm_tasks
+all_other_files
+PGMORL/externals/pytorch-a2c-ppo-acktr-gail/time_limit_logs/

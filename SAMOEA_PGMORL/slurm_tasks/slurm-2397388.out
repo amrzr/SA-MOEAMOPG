@@ -1,0 +1,661 @@
+srun: Warning: can't run 1 processes on 3 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 3 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 3 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 3 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 3 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 3 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 3 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 3 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 3 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 3 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 3 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 3 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 3 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 3 nodes, setting nnodes to 1
+srun: Warning: can't run 1 processes on 3 nodes, setting nnodes to 1
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+Traceback (most recent call last):
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    main()
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 14, in __init__
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 14, in __init__
+    env = cls(**_kwargs)
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 14, in __init__
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 14, in __init__
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 14, in __init__
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/ant.xml"), frame_skip = 5)
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/ant.xml"), frame_skip = 5)
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 97, in __init__
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 97, in __init__
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/ant.xml"), frame_skip = 5)
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/ant.xml"), frame_skip = 5)
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 97, in __init__
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 97, in __init__
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/ant.xml"), frame_skip = 5)
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 97, in __init__
+    observation, _reward, done, _info = self.step(action)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 37, in step
+    observation, _reward, done, _info = self.step(action)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 37, in step
+    observation, _reward, done, _info = self.step(action)
+    ob = self._get_obs()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 37, in step
+    ob = self._get_obs()
+    ob = self._get_obs()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 42, in _get_obs
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 42, in _get_obs
+    self.sim.data.qpos.flat[2:],
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 42, in _get_obs
+AttributeError: 'AntEnv' object has no attribute 'sim'
+    self.sim.data.qpos.flat[2:],
+AttributeError: 'AntEnv' object has no attribute 'sim'
+    self.sim.data.qpos.flat[2:],
+AttributeError: 'AntEnv' object has no attribute 'sim'
+    observation, _reward, done, _info = self.step(action)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 37, in step
+    observation, _reward, done, _info = self.step(action)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 37, in step
+    ob = self._get_obs()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 42, in _get_obs
+    ob = self._get_obs()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 42, in _get_obs
+    self.sim.data.qpos.flat[2:],
+AttributeError: 'AntEnv' object has no attribute 'sim'
+    self.sim.data.qpos.flat[2:],
+AttributeError: 'AntEnv' object has no attribute 'sim'
+Process 0 killed
+Process 0 killed
+Process 0 killed
+Process 0 killed
+Process 0 killed
+srun: Job 2397388 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 2397388 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 2397388 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 2397388
+srun: Step created for job 2397388
+srun: Step created for job 2397388
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py:423: UserWarning: [33mWARN: Custom namespace `ALE` is being overridden by namespace `ALE`. If you are developing a plugin you shouldn't specify a namespace in `register` calls. The namespace is specified through the entry point package metadata.[0m
+  logger.warn(
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+Warning: Gym version v0.24.0 has a number of critical issues with `gym.make` such that the `reset` and `step` functions are called before returning the environment. It is recommend to downgrading to v0.23.1 or upgrading to v0.25.1
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+Traceback (most recent call last):
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 104, in <module>
+    main()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/scripts/../morl/run.py", line 99, in main
+    morl.run(args)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/morl.py", line 59, in run
+    elite_batch, scalarization_batch = initialize_warm_up_batch(args, device)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/warm_up.py", line 31, in initialize_warm_up_batch
+    temp_env = gym.make(args.env_name) # temp_env is only used for initialization
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/registration.py", line 597, in make
+    env = cls(**_kwargs)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 14, in __init__
+    mujoco_env.MujocoEnv.__init__(self, model_path = path.join(path.abspath(path.dirname(__file__)), "assets/ant.xml"), frame_skip = 5)
+  File "/users/mazumdar/.local/lib/python3.9/site-packages/gym/envs/mujoco/mujoco_env.py", line 97, in __init__
+    observation, _reward, done, _info = self.step(action)
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 37, in step
+    ob = self._get_obs()
+  File "/projappl/project_2007911/MORL_tests/PGMORL/morl/../environments/ant.py", line 42, in _get_obs
+    self.sim.data.qpos.flat[2:],
+AttributeError: 'AntEnv' object has no attribute 'sim'
+Process 0 killed
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+*******************
+*******************
+tensor([0.8000, 0.2000])
+*******************
+tensor([1., 0.])
+[-24.71317404 119.93427759]
+tensor([0., 1.])
+[-32.98561167 111.18123624]
+[ 40.63502997 147.4175846 ]
+*******************
+tensor([0.2000, 0.8000])
+[ 46.27947612 125.27098284]
+*******************
+tensor([0.4000, 0.6000])
+[-20.44029043 100.72996934]
+*******************
+tensor([0.6000, 0.4000])
+[ 15.87400181 145.31331552]
+*******************
+tensor([0.2000, 0.8000])
+[ 46.27947612 125.27098284]
+*******************
+tensor([0., 1.])
+[-32.98561167 111.18123624]
+*******************
+tensor([0.8000, 0.2000])
+[ 40.63502997 147.4175846 ]
+*******************
+tensor([0.4000, 0.6000])
+[-20.44029043 100.72996934]
+*******************
+tensor([0.6000, 0.4000])
+[ 15.87400181 145.31331552]
+*******************
+tensor([1., 0.])
+[-24.71317404 119.93427759]
+*******************
+tensor([0.8000, 0.2000])
+[ 742.04396119 1982.83068037]
+*******************
+tensor([0.4000, 0.6000])
+[ 499.82125595 2120.14571931]
+*******************
+tensor([1., 0.])
+[ 543.03884203 1868.4725297 ]
+*******************
+tensor([0.2000, 0.8000])
+[ 438.07126644 1814.3856305 ]
+*******************
+tensor([0., 1.])
+[ 623.36542971 1663.51094233]
+*******************
+tensor([0.2000, 0.8000])
+[ 46.27947612 125.27098284]
+*******************
+tensor([0.8000, 0.2000])
+[ 40.63502997 147.4175846 ]
+*******************
+tensor([0., 1.])
+[-32.98561167 111.18123624]
+*******************
+tensor([1., 0.])
+[-24.71317404 119.93427759]
+*******************
+tensor([0.6000, 0.4000])
+[  90.31582604 1662.16143414]
+*******************
+tensor([0.4000, 0.6000])
+[-20.44029043 100.72996934]
+*******************
+tensor([0.6000, 0.4000])
+[ 15.87400181 145.31331552]
+*******************
+tensor([0.6000, 0.4000])
+[  90.31582604 1662.16143414]
+*******************
+tensor([1., 0.])
+[ 543.03884203 1868.4725297 ]
+*******************
+tensor([0.8000, 0.2000])
+[ 742.04396119 1982.83068037]
+*******************
+tensor([0.2000, 0.8000])
+[ 438.07126644 1814.3856305 ]
+*******************
+tensor([0.4000, 0.6000])
+[ 499.82125595 2120.14571931]
+*******************
+tensor([0., 1.])
+[ 623.36542971 1663.51094233]
+*******************
+tensor([0.6000, 0.4000])
+[  90.31582604 1662.16143414]
+*******************
+*******************
+tensor([1., 0.])
+[ 543.03884203 1868.4725297 ]
+*******************
+tensor([0.4000, 0.6000])
+[ 499.82125595 2120.14571931]tensor([0., 1.])
+[ 623.36542971 1663.51094233]
+*******************
+tensor([0.2000, 0.8000])
+[ 438.07126644 1814.3856305 ]
+
+*******************
+tensor([0.8000, 0.2000])
+[ 742.04396119 1982.83068037]
+*******************
+tensor([0., 1.])
+[-24.53874704 110.97325699]
+*******************
+tensor([1., 0.])
+[-15.51875912 111.62140698]
+*******************
+tensor([0.8000, 0.2000])
+[ 15.81879531 146.58092502]
+*******************
+tensor([0.2000, 0.8000])
+[ 55.65279253 130.86871702]
+*******************
+*******************
+tensor([0.6000, 0.4000])
+[ 25.29247801 139.69727851]
+tensor([0.4000, 0.6000])
+[-19.21246101 116.85872431]
+*******************
+tensor([0.2000, 0.8000])
+[ 55.65279253 130.86871702]
+*******************
+tensor([0., 1.])
+[-24.53874704 110.97325699]
+*******************
+tensor([0.8000, 0.2000])
+[ 15.81879531 146.58092502]
+*******************
+tensor([1., 0.])
+[-15.51875912 111.62140698]
+*******************
+tensor([0.4000, 0.6000])
+[-19.21246101 116.85872431]
+*******************
+tensor([0.6000, 0.4000])
+[ 25.29247801 139.69727851]
+*******************
+tensor([0.2000, 0.8000])
+[ 55.65279253 130.86871702]
+*******************
+tensor([1., 0.])
+[-15.51875912 111.62140698]
+*******************
+*******************
+tensor([0.8000, 0.2000])
+[ 15.81879531 146.58092502]
+tensor([0., 1.])
+[-24.53874704 110.97325699]
+*******************
+tensor([0.4000, 0.6000])
+[-19.21246101 116.85872431]
+*******************
+tensor([0.6000, 0.4000])
+[ 25.29247801 139.69727851]
+*******************
+tensor([0.8000, 0.2000])
+[ 770.19138029 1986.56892076]
+*******************
+tensor([1., 0.])
+[ 379.04617984 1891.44668948]
+*******************
+tensor([0., 1.])
+[ 597.74303937 1670.65157687]
+*******************
+tensor([0.4000, 0.6000])
+[ 499.77834704 2068.41794218]
+*******************
+tensor([0.2000, 0.8000])
+[ 440.71356364 1860.54329997]
+*******************
+tensor([0.6000, 0.4000])
+[ 179.46368567 1812.71489208]
+*******************
+tensor([1., 0.])
+[ 379.04617984 1891.44668948]
+*******************
+tensor([0.6000, 0.4000])
+[ 179.46368567 1812.71489208]
+*******************
+tensor([0.8000, 0.2000])
+[ 770.19138029 1986.56892076]
+*******************
+tensor([0.2000, 0.8000])
+[ 440.71356364 1860.54329997]
+*******************
+tensor([0., 1.])
+[ 597.74303937 1670.65157687]
+*******************
+tensor([0.4000, 0.6000])
+[ 499.77834704 2068.41794218]
+*******************
+tensor([0.6000, 0.4000])
+[ 179.46368567 1812.71489208]
+*******************
+tensor([1., 0.])
+[ 379.04617984 1891.44668948]
+*******************
+tensor([0., 1.])
+[ 597.74303937 1670.65157687]
+*******************
+tensor([0.4000, 0.6000])
+[ 499.77834704 2068.41794218]
+*******************
+tensor([0.2000, 0.8000])
+[ 440.71356364 1860.54329997]
+*******************
+tensor([0.8000, 0.2000])
+[ 770.19138029 1986.56892076]
+*******************
+tensor([1., 0.])
+[-11.98589281 121.55724357]
+*******************
+tensor([0., 1.])
+[-44.36481198 113.82226801]
+*******************
+tensor([0.2000, 0.8000])
+[ 39.29446954 135.69010564]
+*******************
+tensor([0.8000, 0.2000])
+[ 27.48338652 142.94330681]
+*******************
+tensor([0.4000, 0.6000])
+[-17.49642462 126.00759896]
+*******************
+tensor([0.6000, 0.4000])
+[ 21.6407531  134.03032657]
+*******************
+tensor([0.2000, 0.8000])
+[ 39.29446954 135.69010564]
+*******************
+tensor([0., 1.])
+[-44.36481198 113.82226801]
+*******************
+tensor([1., 0.])
+[-11.98589281 121.55724357]
+*******************
+tensor([0.8000, 0.2000])
+[ 27.48338652 142.94330681]
+*******************
+tensor([0.4000, 0.6000])
+[-17.49642462 126.00759896]
+*******************
+tensor([0.6000, 0.4000])
+[ 21.6407531  134.03032657]
+*******************
+tensor([1., 0.])
+[-11.98589281 121.55724357]
+*******************
+tensor([0.8000, 0.2000])
+[ 27.48338652 142.94330681]
+*******************
+tensor([0.2000, 0.8000])
+[ 39.29446954 135.69010564]
+*******************
+tensor([0., 1.])
+[-44.36481198 113.82226801]
+*******************
+tensor([0.4000, 0.6000])
+[-17.49642462 126.00759896]
+*******************
+tensor([0.6000, 0.4000])
+[ 21.6407531  134.03032657]
+*******************
+tensor([1., 0.])
+[ 403.01962364 1672.53107545]
+*******************
+tensor([0.8000, 0.2000])
+[ 807.08944395 2142.35266898]
+*******************
+tensor([0., 1.])
+[ 523.0979727  1641.96872424]
+*******************
+tensor([0.4000, 0.6000])
+[ 498.18059637 2044.1523156 ]
+*******************
+tensor([0.2000, 0.8000])
+[ 408.29511704 1704.31940341]
+*******************
+tensor([0.6000, 0.4000])
+[ 441.82156897 1754.76318709]
+*******************
+tensor([1., 0.])
+[ 403.01962364 1672.53107545]
+*******************
+tensor([1., 0.])
+[ 403.01962364 1672.53107545]
+*******************
+tensor([0.6000, 0.4000])
+[ 441.82156897 1754.76318709]
+*******************
+tensor([0., 1.])
+[ 523.0979727  1641.96872424]
+*******************
+*******************
+tensor([0.6000, 0.4000])
+[ 441.82156897 1754.76318709]
+tensor([0.2000, 0.8000])
+[ 408.29511704 1704.31940341]
+*******************
+tensor([0.4000, 0.6000])
+[ 498.18059637 2044.1523156 ]
+*******************
+tensor([0.8000, 0.2000])
+[ 807.08944395 2142.35266898]
+*******************
+tensor([0.8000, 0.2000])
+[ 807.08944395 2142.35266898]
+*******************
+tensor([0.2000, 0.8000])
+[ 408.29511704 1704.31940341]
+*******************
+tensor([0., 1.])
+[ 523.0979727  1641.96872424]
+*******************
+tensor([0.4000, 0.6000])
+[ 498.18059637 2044.1523156 ]
+*******************
+tensor([1., 0.])
+[  3.03133322 125.44565845]
+*******************
+tensor([0., 1.])
+[-40.87010516 128.2972398 ]
+*******************
+tensor([0.2000, 0.8000])
+[ 42.64196157 140.11392696]
+*******************
+tensor([0.6000, 0.4000])
+[ 21.10632507 130.6932959 ]
+*******************
+tensor([0.4000, 0.6000])
+[-15.68250792 130.18046819]
+*******************
+tensor([0.8000, 0.2000])
+[ 28.00548738 132.15338369]
+*******************
+tensor([0., 1.])
+[-40.87010516 128.2972398 ]
+*******************
+tensor([0.2000, 0.8000])
+[ 42.64196157 140.11392696]
+*******************
+tensor([1., 0.])
+[  3.03133322 125.44565845]
+*******************
+tensor([0.8000, 0.2000])
+[ 28.00548738 132.15338369]
+*******************
+tensor([0.4000, 0.6000])
+[-15.68250792 130.18046819]
+*******************
+tensor([0.6000, 0.4000])
+[ 21.10632507 130.6932959 ]
+*******************
+tensor([1., 0.])
+[  3.03133322 125.44565845]
+*******************
+tensor([0.8000, 0.2000])
+[ 28.00548738 132.15338369]
+*******************
+tensor([0., 1.])
+[-40.87010516 128.2972398 ]
+*******************
+tensor([0.4000, 0.6000])
+[-15.68250792 130.18046819]
+*******************
+tensor([0.2000, 0.8000])
+[ 42.64196157 140.11392696]
+*******************
+tensor([0.6000, 0.4000])
+[ 21.10632507 130.6932959 ]
+*******************
+tensor([1., 0.])
+[ 658.28144434 1914.65425919]
+*******************
+tensor([0.8000, 0.2000])
+[ 807.92134601 2152.55071098]
+*******************
+tensor([0., 1.])
+[ 622.74232734 1603.57927217]
+*******************
+tensor([0.2000, 0.8000])
+[ 405.35013994 1720.03987497]
+*******************
+tensor([0.6000, 0.4000])
+[ 664.453961   1926.14872931]
+*******************
+tensor([0.4000, 0.6000])
+[ 498.83843384 1974.23696863]
+*******************
+tensor([1., 0.])
+[ 658.28144434 1914.65425919]
+*******************
+tensor([0.6000, 0.4000])
+[ 664.453961   1926.14872931]
+*******************
+tensor([0., 1.])
+[ 622.74232734 1603.57927217]
+*******************
+tensor([0.2000, 0.8000])
+[ 405.35013994 1720.03987497]
+*******************
+*******************
+tensor([0.4000, 0.6000])
+[ 498.83843384 1974.23696863]
+tensor([0.8000, 0.2000])
+[ 807.92134601 2152.55071098]
+*******************
+tensor([1., 0.])
+[ 658.28144434 1914.65425919]
+*******************
+tensor([0.6000, 0.4000])
+[ 664.453961   1926.14872931]
+*******************
+tensor([0.8000, 0.2000])
+[ 807.92134601 2152.55071098]
+*******************
+tensor([0.2000, 0.8000])
+[ 405.35013994 1720.03987497]
+*******************
+tensor([0., 1.])
+[ 622.74232734 1603.57927217]
+*******************
+tensor([0.4000, 0.6000])
+[ 498.83843384 1974.23696863]
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+slurmstepd: error: *** STEP 2397388.9 ON c6222 CANCELLED AT 2023-05-27T21:34:14 ***
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+slurmstepd: error: *** STEP 2397388.10 ON c6222 CANCELLED AT 2023-05-27T21:34:14 ***
+slurmstepd: error: *** STEP 2397388.8 ON c5212 CANCELLED AT 2023-05-27T21:34:14 ***
+slurmstepd: error: *** STEP 2397388.6 ON c5212 CANCELLED AT 2023-05-27T21:34:14 ***
+slurmstepd: error: *** STEP 2397388.7 ON c5212 CANCELLED AT 2023-05-27T21:34:14 ***
+slurmstepd: error: *** STEP 2397388.13 ON c5202 CANCELLED AT 2023-05-27T21:34:14 ***
+slurmstepd: error: *** STEP 2397388.12 ON c5202 CANCELLED AT 2023-05-27T21:34:14 ***
+slurmstepd: error: *** STEP 2397388.5 ON c5202 CANCELLED AT 2023-05-27T21:34:14 ***
+slurmstepd: error: *** STEP 2397388.4 ON c5202 CANCELLED AT 2023-05-27T21:34:14 ***
+slurmstepd: error: *** JOB 2397388 ON c5202 CANCELLED AT 2023-05-27T21:34:14 ***
