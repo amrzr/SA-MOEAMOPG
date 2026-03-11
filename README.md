@@ -21,5 +21,15 @@ We tested our algorithm with the MUJOCO benchmarks proposed in the PGMORL paper 
 `conda env create -f env.yml`
 
 * Activate the conda environment
-` conda activate samoea-morl`
+  ```
+  cd ```
+  conda activate samoea-morl
+  ```
 
+#### Train
+
+* To run our algorithm on *MO-HalfCheetah-v2* for a single run:
+
+  ```
+  python ../scripts/halfcheetah-v2.py --pgmorl --approach PMOEA_MOPPO --num-seeds 1 --num-processes 1
+  ```
