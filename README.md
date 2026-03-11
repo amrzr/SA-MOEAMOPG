@@ -1,4 +1,4 @@
-# Interactive Evolutionary Multiobjective Optimization of Primer Design with Uncertain Objectives
+# Hybrid Surrogate Assisted Evolutionary Multiobjective Reinforcement Learning for Continuous Robot Control 
 
 This repository contains the implementation for the paper [Hybrid Surrogate Assisted Evolutionary Multiobjective Reinforcement Learning for Continuous Robot Control](https://link.springer.com/chapter/10.1007/978-3-031-56855-8_4) (**EVOSTAR 2024**).
 In this paper, we propose a hybrid multiobjective policy optimization approach for solving multiobjective reinforcement learning (MORL) problems with continuous actions. Our approach combines the faster convergence of multiobjective policy gradient (MOPG) and a surrogate-assisted multiobjective evolutionary algorithm (MOEA) to produce a dense set of Pareto optimal policies. 
