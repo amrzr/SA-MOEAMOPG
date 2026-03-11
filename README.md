@@ -22,7 +22,7 @@ We tested our algorithm with the MUJOCO benchmarks proposed in the PGMORL paper 
 
 * Activate the conda environment
   ```
-  cd ```
+  cd SA-MOEAMOPG/SAMOEA_PGMORL
   conda activate samoea-morl
   ```
 
